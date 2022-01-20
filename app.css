@@ -12,3 +12,16 @@ p{
     background-color:rgba(0,0,0,0.5);
     margin-left:50px;
 }
+button{
+    background-color: white;
+  color: black;
+  border: 2px solid #4CAF50;
+}
+.button {
+    transition-duration: 0.4s;
+  }
+  
+.button:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+  }
